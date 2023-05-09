@@ -2,7 +2,7 @@
 - 🤖 Estou estudando automação de testes
 - 📧 Meu e-mail: sarahdfweb@gmail.com
 - 📞 Meu contato: 61 99830-6676
-<br>
+
 <div>
   <a href="https://github.com/sarahdfweb">
     <img height="180em"src="https://github-readme-stats.vercel.app/api?username=sarahdfweb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -21,4 +21,6 @@
   <div>
   <a href="https://www.linkedin.com/in/sarahdfweb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
-  ![snake gif](https://github.com/sarahdfweb/sarahdfweb/blob/output/github-contribution-grid-snake.svg)
+ 
+![Snake animation](https://github.com/sarahdfweb/sarahdfweb/blob/output/github-contribution-grid-snake.svg)
+ 
