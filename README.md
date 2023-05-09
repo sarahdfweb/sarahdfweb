@@ -1,16 +1,23 @@
-### Hi there 👋
+## Oiii me chamo Sarah, sou Analista de Teste de Software!
+- 🤖 Estou estudando automação de testes
+- 📧 Meu e-mail: sarahdfweb@gmail.com
+- 📞 Meu contato: 61 99830-6676
+<br>
+<div>
+  <a href="https://github.com/sarahdfweb">
+    <img height="180em"src="https://github-readme-stats.vercel.app/api?username=sarahdfweb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahdfweb&layout=compact&langs_count=16&theme=dracula"/>
+  </div>
 
-<!--
-**sarahdfweb/sarahdfweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-Here are some ideas to get you started:
+  <img align="center" alt="sarah-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="sarah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="sarah-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="sarah-Cucumber" height="30"width="40" src="https://cucumber.io/cucumber/media/images/logos/icons/cucumber-open-icon.svg">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ##
+  <div>
+  <a href="https://www.linkedin.com/in/sarahdfweb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
