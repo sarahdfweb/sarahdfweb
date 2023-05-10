@@ -3,8 +3,7 @@
 - 📧 Meu e-mail: sarahdfweb@gmail.com
 - 📞 Meu contato: 61 99830-6676 
 
-<div>
-
+<div
   
   <a href="https://github.com/sarahdfweb">
     <img height="180em"src="https://github-readme-stats.vercel.app/api?username=sarahdfweb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
