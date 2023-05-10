@@ -1,7 +1,7 @@
 ## Oiii me chamo Sarah, sou Analista de Teste de Software!   <a href="https://www.imagensanimadas.com/cat-joaninhas-567.htm"><img src="https://www.imagensanimadas.com/data/media/567/joaninha-imagem-animada-0056.gif" border="0" alt="joaninha-imagem-animada-0056" /></a>
 - 🤖 Estou estudando automação de testes 
 - 📧 Meu e-mail: sarahdfweb@gmail.com
-- 📞 Meu contato: 61 99830-6676
+- 📞 Meu contato: 61 99830-6676 
 
 <div>
 
