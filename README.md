@@ -1,5 +1,4 @@
-![ezgif com-gif-maker (3)](https://github.com/sarahdfweb/sarahdfweb/assets/87348787/bc4d9883-7de6-495b-a46e-737cbbb95f59) <br>
-Oiii me chamo Sarah, sou Analista de Teste de Software! 
+![ezgif com-gif-maker (3)](https://github.com/sarahdfweb/sarahdfweb/assets/87348787/bc4d9883-7de6-495b-a46e-737cbbb95f59) Oiii me chamo Sarah, sou Analista de Teste de Software! 
 
 - 🤖 Estou estudando automação de testes 
 - 📧 Meu e-mail: sarahdfweb@gmail.com
