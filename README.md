@@ -18,6 +18,8 @@
   <img align="center" alt="sarah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="sarah-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="sarah-Cucumber" height="30"width="40" src="https://cucumber.io/cucumber/media/images/logos/icons/cucumber-open-icon.svg">
+  <img align="center" alt="sarah-Cucumber" height="30"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+
  
 
   ##
