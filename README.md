@@ -19,7 +19,6 @@
   <img align="center" alt="sarah-Cucumber" height="30"width="40" src="https://cucumber.io/cucumber/media/images/logos/icons/cucumber-open-icon.svg">
   <img align="center" alt="sarah-Cucumber" height="30"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
- 
 
   ##
  
