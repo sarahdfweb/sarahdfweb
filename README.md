@@ -1,19 +1,17 @@
 Oiii me chamo Sarah, sou Analista de Teste de Software! <br>
                                                                                                                        
-![ezgif com-gif-maker (3)](https://github.com/sarahdfweb/sarahdfweb/assets/87348787/bc4d9883-7de6-495b-a46e-737cbbb95f59)                                                                                                              
-- 🤖 Estou estudando automação de testes 
+![ezgif com-gif-maker (3)](https://github.com/sarahdfweb/sarahdfweb/assets/87348787/bc4d9883-7de6-495b-a46e-737cbbb95f59)                                                                                                     
+- 🤖 Estou estudando automação de testes  
 - 📧 Meu e-mail: sarahdfweb@gmail.com
-- 📞 Meu contato: 61 99830-6676 
+- 📞 Meu contato: 61 99830-6676       
   <br>
 
 
+   
 
-
-<div>
-  
   <a href="https://github.com/sarahdfweb">
-    <img height="180em"src="https://github-readme-stats.vercel.app/api?username=sarahdfweb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahdfweb&layout=compact&langs_count=16&theme=dracula"/>  
+    <img height="180em"src="https://github-readme-stats.vercel.app/api?username=sarahdfweb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahdfweb&layout=compact&langs_count=16&theme=dracula">  
 </div>
   
 <div style="display: inline_block"><br>
@@ -36,3 +34,8 @@ Oiii me chamo Sarah, sou Analista de Teste de Software! <br>
  
 ![Snake animation](https://github.com/sarahdfweb/sarahdfweb/blob/output/github-contribution-grid-snake.svg)
   
+<div>
+ <img height="180em "src="https://projectpokemon.org/images/normal-sprite/vivillon-meadow.gif">  
+
+
+</div>
