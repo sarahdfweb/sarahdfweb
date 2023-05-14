@@ -1,8 +1,11 @@
 Oiii me chamo Sarah, sou Analista de Teste de Software! <br>
-                                                                                                                       
-![ezgif com-gif-maker (3)](https://github.com/sarahdfweb/sarahdfweb/assets/87348787/bc4d9883-7de6-495b-a46e-737cbbb95f59)                                                                                                     
+![ezgif com-resize (1)](https://github.com/sarahdfweb/sarahdfweb/assets/87348787/eaa8cc99-4e2a-413a-8885-a7cba1b39857)
+                                                                                                     
+  
+
 - 🤖 Estou estudando automação de testes  
-- 📧 Meu e-mail: sarahdfweb@gmail.com
+- 📧 Meu e-
+mail: sarahdfweb@gmail.com
 - 📞 Meu contato: 61 99830-6676       
   <br>
 
