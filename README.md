@@ -15,18 +15,9 @@ mail: sarahdfweb@gmail.com
 </div>
   
 <div style="display: inline_block"><br>
-  
+ 
 
-  
-  
-
-
-  
-  <code>
-  <a href="https://www.figma.com/proto/yMsINtJWpm2bw5vvs6lCo6/Designer-%2F-Teste?page-id=0%3A1&type=design&node-id=18-51&viewport=243%2C440%2C0.33&scaling=scale-down&starting-point-node-id=18%3A51">
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma">
-  </a>
-</code>
+ 
 
    <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title = "Figma"/></code>
    <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
