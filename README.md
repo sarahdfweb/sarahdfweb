@@ -3,7 +3,7 @@ Oiii me chamo Sarah, sou Analista de Teste de Software! <br>
                                                                                                      
   
 
-- 🤖 Estou estudando automação de testes  
+- 🤖 Estou estudando automação de testes 
 - 📧 Meu e-
 mail: sarahdfweb@gmail.com
 - 📞 Meu contato: 61 99830-6676       
