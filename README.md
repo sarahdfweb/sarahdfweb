@@ -8,17 +8,18 @@ Oiii me chamo Sarah, sou Analista de Teste de Software! <br>
 mail: sarahdfweb@gmail.com
 - 📞 Meu contato: 61 99830-6676       
   <br>
-
-  <a href="https://github.com/sarahdfweb">
-   <img height="150em"src="https://github-readme-stats.vercel.app/api?username=sarahdfweb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahdfweb&layout=compact&langs_count=16&theme=dracula">  
-</div>
   
+<!-- <div>
+  <a href="https://github.com/sarahdfweb">
+  <img height="150em"src="https://github-readme-stats.vercel.app/api?username=sarahdfweb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahdfweb&layout=compact&langs_count=16&theme=dracula"/>  
+</div> -->
+  
+
+ 
+
+ 
 <div style="display: inline_block"><br>
- 
-
- 
-
    <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title = "Figma"/></code>
    <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
    <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code> 
