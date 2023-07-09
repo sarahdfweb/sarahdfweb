@@ -23,8 +23,9 @@ mail: sarahdfweb@gmail.com
    <code><a href="https://www.figma.com/proto/yMsINtJWpm2bw5vvs6lCo6/Designer-%2F-Teste?page-id=0%3A1&type=design&node-id=0-1&viewport=243%2C560%2C0.33&scaling=scale-down&starting-point-node-id=18%3A51&show-proto-sidebar=1&hide-ui=1" target="_blank"><img width="40px"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title = "Figma"target="_blank" ></a></code>
    <code><a href="https://sarahdfweb.github.io/books/"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"></a></code>
    <code><a href="https://sarahdfweb.github.io/cartao-pokemon"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></a></code> 
-   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JavaScript"/></code>
-   <code><a href="https://github.com/sarahdfweb/especializacao_testes_software/tree/main/Gherkin"><img width="40px" src="https://cucumber.io/cucumber/media/images/logos/icons/cucumber-open-icon.svg" title = "Cucumber"/></a></code>
+   <code><a href="https://sarahdfweb.github.io/xmen/"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JavaScript"/></a></code> 
+   <code><a href="https://github.com/sarahdfweb/especializacao_testes_software/tree/main/Gherkin"><img width="40px" src="https://cucumber.io/cucumber/media/images/logos/icons/cucumber-open-icon.svg" title = "Cucumber"/> 
+   </a></code>
  
   </div>
   
