@@ -24,8 +24,7 @@ mail: sarahdfweb@gmail.com
    <code><a href="https://sarahdfweb.github.io/books/"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"></a></code>
    <code><a href="https://sarahdfweb.github.io/cartao-pokemon"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></a></code> 
    <code><a href="https://sarahdfweb.github.io/xmen/"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JavaScript"/></a></code> 
-   <code><a href="https://github.com/sarahdfweb/especializacao_testes_software/tree/main/Gherkin"><img width="40px" src="https://cucumber.io/cucumber/media/images/logos/icons/cucumber-open-icon.svg" title = "Cucumber"/> 
-   </a></code>
+   <code><a href="https://github.com/sarahdfweb/especializacao_testes_software/tree/main/Gherkin"><img width="40px" src="https://cucumber.io/cucumber/media/images/logos/icons/cucumber-open-icon.svg" title = "Cucumber"/></a></code>
  
   </div>
   
