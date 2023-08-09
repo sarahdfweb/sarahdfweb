@@ -34,8 +34,11 @@ mail: sarahdfweb@gmail.com
     
   </div>
  
-![Snake animation](https://github.com/sarahdfweb/sarahdfweb/blob/output/github-contribution-grid-snake.svg)
-  
+![snake animation](https://github.com/sarahdfweb/sarahdfweb/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
 <div>
  <img height="180em "src="https://projectpokemon.org/images/normal-sprite/vivillon-meadow.gif">  
 
