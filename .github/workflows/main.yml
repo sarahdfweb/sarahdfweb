@@ -21,7 +21,7 @@ jobs:
 
     # Repositorio que será utilizado para gerar os arquivos.
       - uses: Platane/snk@master
-        id: snake-gif
+        id: Snake-animation
         with:
           github_user_name: sarahdfweb
           gif_out_path: dist/github-contribution-grid-snake.gif
