@@ -23,7 +23,7 @@ Oiii me chamo Sarah, sou Analista de Teste de Software! <br>
     <a href="https://sarahdfweb.github.io/cartao-pokemon"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"></a>
    <a href="https://sarahdfweb.github.io/xmen/"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JavaScript"></a>
    <a href="https://github.com/sarahdfweb/especializacao_testes_software/tree/main/Gherkin"><img width="40px" src="https://cucumber.io/cucumber/media/images/logos/icons/cucumber-open-icon.svg" title = "Cucumber"></a>
-  <a href="https://www.trustradius.com/_next/image?url=https%3A%2F%2Fmedia.trustradius.com%2Fproduct-logos%2FdW%2FbD%2FTVKN4S449VZ6-180x180.JPEG&w=128&q=75"><img width="40px" src="https://www.trustradius.com/_next/image?url=https%3A%2F%2Fmedia.trustradius.com%2Fproduct-logos%2FdW%2FbD%2FTVKN4S449VZ6-180x180.JPEG&w=128&q=75" title = "Cucumber"></a>
+  <a href="https://github.com/sarahdfweb/teste1cypress"><img width="40px" src="https://www.trustradius.com/_next/image?url=https%3A%2F%2Fmedia.trustradius.com%2Fproduct-logos%2FdW%2FbD%2FTVKN4S449VZ6-180x180.JPEG&w=128&q=75" title = "Cypress"></a>
 
 
   </div>
