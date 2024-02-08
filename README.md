@@ -4,7 +4,7 @@ Oiii me chamo Sarah, sou Analista de Teste de Software! <br>
                                                                                                      
   
 
-- 🤖 Estou estudando automação de testes 
+-   Estou estudando automação de testes 
 - 📧 Meu e-mail: sarahdfweb@gmail.com
 - 📞 Meu contato: 61 99830-6676       
   <br>
@@ -14,7 +14,7 @@ Oiii me chamo Sarah, sou Analista de Teste de Software! <br>
   <img height="150em"src="https://github-readme-stats.vercel.app/api?username=sarahdfweb&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahdfweb&layout=compact&langs_count=16&theme=radical"/>  
 </div> 
- <img height="30em "src="https://projectpokemon.org/images/normal-sprite/vivillon-meadow.gif">
+<img height="30em "src="https://projectpokemon.org/images/normal-sprite/vivillon-meadow.gif">
     
 <div>
   <h1>Clique nas imagens abaixo e confira os projetos </h1>
