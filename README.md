@@ -1,7 +1,9 @@
 # Olá, sou Sarah 👋
-
 Sou Analista de Teste de Software! <br>
-
+<div align="right">
+  
+  <img src="https://projectpokemon.org/images/normal-sprite/vivillon-meadow.gif" width="30" height="30">
+</div>
 
 ![ezgif com-resize (1)](https://github.com/sarahdfweb/sarahdfweb/assets/87348787/eaa8cc99-4e2a-413a-8885-a7cba1b39857)
 
@@ -15,7 +17,7 @@ Sou Analista de Teste de Software! <br>
   <img height="150em"src="https://github-readme-stats.vercel.app/api?username=sarahdfweb&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahdfweb&layout=compact&langs_count=16&theme=radical"/>  
 </div> 
-<img height="30em "src="https://projectpokemon.org/images/normal-sprite/vivillon-meadow.gif">
+
     
 <div>
   <h2>Clique nas imagens abaixo e confira os projetos </h2>
