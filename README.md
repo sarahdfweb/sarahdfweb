@@ -1,10 +1,9 @@
 # Olá, sou Sarah 👋
-Uma Analista de Teste de Software! <br>
+Analista de Teste de Software! <br>
 
   ![ezgif com-resize (1)](https://github.com/sarahdfweb/sarahdfweb/assets/87348787/eaa8cc99-4e2a-413a-8885-a7cba1b39857)
 
-  ## Sobre Mim
--  Estudando automação de testes.
+-  Focada no aprendizado de testes automatizados
 - 📧 E-mail: sarahdfweb@gmail.com
 - 📞 Contato: 61 99830-6676
  <div align="right">
