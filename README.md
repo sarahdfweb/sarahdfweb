@@ -1,13 +1,14 @@
+# Olá, sou Sarah 👋
 
-Oiii me chamo Sarah, sou Analista de Teste de Software! <br>
+Sou Analista de Teste de Software! <br>
+
+
 ![ezgif com-resize (1)](https://github.com/sarahdfweb/sarahdfweb/assets/87348787/eaa8cc99-4e2a-413a-8885-a7cba1b39857)
-                                                                                                     
-  
 
--   Estou estudando automação de testes 
-- 📧 Meu e-mail: sarahdfweb@gmail.com
-- 📞 Meu contato: 61 99830-6676       
-  <br>
+  ## Sobre Mim
+- Analista de Teste de Software focada em automação de testes.
+- 📧 E-mail: sarahdfweb@gmail.com
+- 📞 Contato: 61 99830-6676
  
 <div>
   <a href="https://github.com/sarahdfweb">
@@ -17,7 +18,7 @@ Oiii me chamo Sarah, sou Analista de Teste de Software! <br>
 <img height="30em "src="https://projectpokemon.org/images/normal-sprite/vivillon-meadow.gif">
     
 <div>
-  <h1>Clique nas imagens abaixo e confira os projetos </h1>
+  <h2>Clique nas imagens abaixo e confira os projetos </h2>
  <a href="https://www.figma.com/proto/q3rGN2U7WEVFT5cdE8vD4N/Untitled?page-id=0%3A1&type=design&node-id=1-4&viewport=680%2C485%2C0.25&t=oyOS89Fd8YNWBc79-1&scaling=scale-down&mode=design"><img width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title = "Figma" target="_blank"></a>
   <a href="https://sarahdfweb.github.io/books/"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"></a>
     <a href="https://sarahdfweb.github.io/cartao-pokemon"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"></a>
@@ -27,12 +28,9 @@ Oiii me chamo Sarah, sou Analista de Teste de Software! <br>
    <a href=""><img width="42px" src="https://github.com/sarahdfweb/sarahdfweb/assets/87348787/966eb61c-ba44-4456-8f70-1252d7a36564" title = "Em construção"></a>
   <a href="https://github.com/sarahdfweb/teste-cypress-ui"><img width="40px" src="https://www.trustradius.com/_next/image?url=https%3A%2F%2Fmedia.trustradius.com%2Fproduct-logos%2FdW%2FbD%2FTVKN4S449VZ6-180x180.JPEG&w=128&q=75" title = "Cypress"></a>
 
- 
-
-
   </div>
   
- ##
+ ## Rede Social
   <div>
   <a href="https://www.linkedin.com/in/sarahdfweb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
