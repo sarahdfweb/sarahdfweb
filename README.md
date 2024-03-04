@@ -1,11 +1,10 @@
 # Olá, sou Sarah 👋
-Sou Analista de Teste de Software! <br>
+Uma Analista de Teste de Software! <br>
 <div align="right">
-  
   <img src="https://projectpokemon.org/images/normal-sprite/vivillon-meadow.gif" width="30" height="30">
 </div>
 
-![ezgif com-resize (1)](https://github.com/sarahdfweb/sarahdfweb/assets/87348787/eaa8cc99-4e2a-413a-8885-a7cba1b39857)
+  ![ezgif com-resize (1)](https://github.com/sarahdfweb/sarahdfweb/assets/87348787/eaa8cc99-4e2a-413a-8885-a7cba1b39857)
 
   ## Sobre Mim
 - Analista de Teste de Software focada em automação de testes.
