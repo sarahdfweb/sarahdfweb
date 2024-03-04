@@ -1,16 +1,15 @@
 # Olá, sou Sarah 👋
 Uma Analista de Teste de Software! <br>
-<div align="right">
-  <img src="https://projectpokemon.org/images/normal-sprite/vivillon-meadow.gif" width="30" height="30">
-</div>
 
   ![ezgif com-resize (1)](https://github.com/sarahdfweb/sarahdfweb/assets/87348787/eaa8cc99-4e2a-413a-8885-a7cba1b39857)
 
   ## Sobre Mim
-- Analista de Teste de Software focada em automação de testes.
+-  Estudando automação de testes.
 - 📧 E-mail: sarahdfweb@gmail.com
 - 📞 Contato: 61 99830-6676
- 
+ <div align="right">
+  <img src="https://projectpokemon.org/images/normal-sprite/vivillon-meadow.gif" width="30" height="30">
+</div>
 <div>
   <a href="https://github.com/sarahdfweb">
   <img height="150em"src="https://github-readme-stats.vercel.app/api?username=sarahdfweb&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -19,7 +18,7 @@ Uma Analista de Teste de Software! <br>
 
     
 <div>
-  <h2>Clique nas imagens abaixo e confira os projetos </h2>
+  <h2>Clique nas Imagens Abaixo e Confira os Projetos </h2>
  <a href="https://www.figma.com/proto/q3rGN2U7WEVFT5cdE8vD4N/Untitled?page-id=0%3A1&type=design&node-id=1-4&viewport=680%2C485%2C0.25&t=oyOS89Fd8YNWBc79-1&scaling=scale-down&mode=design"><img width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title = "Figma" target="_blank"></a>
   <a href="https://sarahdfweb.github.io/books/"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"></a>
     <a href="https://sarahdfweb.github.io/cartao-pokemon"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"></a>
