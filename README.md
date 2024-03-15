@@ -25,7 +25,7 @@ Analista de Teste de Software! <br>
    <a href="https://github.com/sarahdfweb/especializacao_testes_software/tree/main/Gherkin"><img width="40px" src="https://cucumber.io/cucumber/media/images/logos/icons/cucumber-open-icon.svg" title = "Cucumber"></a>
    <a href=""><img width="40px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" title = "Em construção"></a>
    <a href=""><img width="42px" src="https://github.com/sarahdfweb/sarahdfweb/assets/87348787/966eb61c-ba44-4456-8f70-1252d7a36564" title = "Em construção"></a>
-  <a href="https://github.com/sarahdfweb/teste-cypress-ui"><img width="40px" src="https://www.trustradius.com/_next/image?url=https%3A%2F%2Fmedia.trustradius.com%2Fproduct-logos%2FdW%2FbD%2FTVKN4S449VZ6-180x180.JPEG&w=128&q=75" title = "Cypress"></a>
+  <a href="https://github.com/sarahdfweb/teste-cypress-ui"><img width="40px" src="https://github.com/sarahdfweb/Teste-Api-Cypress" title = "Cypress"></a>
 
   </div>
   
