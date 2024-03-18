@@ -24,7 +24,6 @@ Analista de Teste de Software! <br>
    <a href="https://sarahdfweb.github.io/xmen/"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JavaScript"></a>
    <a href="https://github.com/sarahdfweb/especializacao_testes_software/tree/main/Gherkin"><img width="40px" src="https://cucumber.io/cucumber/media/images/logos/icons/cucumber-open-icon.svg" title = "Cucumber"></a>
    <a href=""><img width="40px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" title = "Em construção"></a>
-   <a href=""><img width="42px" src="https://github.com/sarahdfweb/sarahdfweb/assets/87348787/966eb61c-ba44-4456-8f70-1252d7a36564" title = "Em construção"></a>
   <a href="https://github.com/sarahdfweb/Teste-Api-Cypress"><img width="75px" src="https://media.licdn.com/dms/image/D4D12AQGoFi4cMbApzQ/article-cover_image-shrink_720_1280/0/1691404661944?e=2147483647&v=beta&t=sOa1js9lZj2HWfEmEDMO4u0LT_1s1mYRIRrI2YOgG9Q" title = "Cypress"></a>
 
   </div>
