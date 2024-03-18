@@ -5,7 +5,7 @@ Analista de Teste de Software! <br>
 
 -  Focada no aprendizado de testes automatizados
 - 📧 E-mail: sarahdfweb@gmail.com
-- 📞 Contato: 61 99830-6676 <a href="https://wa.me/5561998306676">Contato via WhatsApp</a>
+- 📞 <a href="https://wa.me/5561998306676">Contato via WhatsApp</a>: 61 99830-6676 
 
  <div align="right">
   <img src="https://projectpokemon.org/images/normal-sprite/vivillon-meadow.gif" width="30" height="30">
