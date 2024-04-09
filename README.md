@@ -27,6 +27,10 @@ Analista de Teste de Software! <br>
   <a href=""><img width="40px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Em construção"></a>
   <a href="https://github.com/sarahdfweb/Teste-Api-Cypress"><img width="40px" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" title="Cypress"></a>
   <a href="https://github.com/sarahdfweb/SQLSERVER/tree/main"><img width="40px" src="https://github.com/sarahdfweb/sarahdfweb/assets/87348787/f94a8dea-654a-4393-8ce6-ebeb8cf01464" title="SQL/NOSQL"></a>
+  <a href=""><img width="40px" src="https://jmeter.apache.org/images/jmeter_square.png" title="JMeter"></a>
+
+  
+  
 </div>
 
  
