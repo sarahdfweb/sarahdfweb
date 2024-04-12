@@ -1,11 +1,13 @@
 # Olá, sou Sarah 👋
-Analista de Teste de Software! <br>
+Analista de Teste de Software! <br> 
+
 
   ![ezgif com-resize (1)](https://github.com/sarahdfweb/sarahdfweb/assets/87348787/eaa8cc99-4e2a-413a-8885-a7cba1b39857)
 
 -  Focada no aprendizado de testes automatizados
 - 📧 E-mail: sarahdfweb@gmail.com
-- 📞 <a href="https://wa.me/5561998306676">Contato via WhatsApp</a>: 61 99830-6676 
+- 📞 <a href="https://wa.me/5561998306676">Contato via WhatsApp</a>: 61 99830-6676
+- 🔗 <a href="https://www.linkedin.com/in/sarahdfweb/">LinkedIn</a>: Meu perfil do LinkedIn
 
  <div align="right">
   <img src="https://projectpokemon.org/images/normal-sprite/vivillon-meadow.gif" width="30" height="30">
