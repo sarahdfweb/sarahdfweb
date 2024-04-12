@@ -1,7 +1,6 @@
 # Olá, sou Sarah 👋
 Analista de Teste de Software! <br> 
 
-
   ![ezgif com-resize (1)](https://github.com/sarahdfweb/sarahdfweb/assets/87348787/eaa8cc99-4e2a-413a-8885-a7cba1b39857)
 
 -  Focada no aprendizado de testes automatizados
@@ -17,7 +16,6 @@ Analista de Teste de Software! <br>
   <img height="150em"src="https://github-readme-stats.vercel.app/api?username=sarahdfweb&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahdfweb&layout=compact&langs_count=16&theme=radical"/>  
 </div> 
-
     
 <div>
   <h2>Clique nas Imagens Abaixo e Confira os Projetos </h2>
@@ -31,16 +29,8 @@ Analista de Teste de Software! <br>
   <a href="https://github.com/sarahdfweb/SQLSERVER/tree/main"><img width="30px" src="https://github.com/sarahdfweb/sarahdfweb/assets/87348787/f94a8dea-654a-4393-8ce6-ebeb8cf01464" title="SQL/NOSQL"></a>
   <a href=""><img width="30px" src="https://jmeter.apache.org/images/jmeter_square.png" title="Em construção"></a>
 
-  
-  
 </div>
 
- 
- ## Rede Social
-  <div>
-  <a href="https://www.linkedin.com/in/sarahdfweb/" target="_blank"><img width="70px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    
-  </div>
 
 <div>
  
