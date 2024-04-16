@@ -32,7 +32,10 @@ Analista de Teste de Software! <br>
 </div>
 
 
+<!--
 <div>
- 
+  <h2>Alguns tipos de testes Clique e confira </h2>
+   <a href="">Teste de Performance</a>
 
 </div>
+-->
