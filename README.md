@@ -34,8 +34,14 @@ Analista de Teste de Software! <br>
 
 
 <div>
-  <h2>Alguns tipos de testes </h2>
+  <h2>Alguns Tipos de Testes </h2>
+
+ - [Teste de Performance (Carga) - Jmeter](https://github.com/sarahdfweb/sarahdfweb/assets/87348787/4d6acb8f-a21b-483d-bb94-0c390ab3c54)
+
  
+
+
+
 </div>
 
 
