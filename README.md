@@ -34,15 +34,17 @@ Analista de Teste de Software! <br>
 
 
 <div>
-  <h2>Alguns Tipos de Testes </h2>
-
- - [Teste de Performance (Carga) - Jmeter](https://github.com/sarahdfweb/Testeperformance/assets/87348787/caefa8b6-2bbd-4e5d-80ac-2c025ec5dc30)
-
- 
-
-
-
+  <h2>Alguns Tipos de Testes</h2>
+  <details>
+    <summary>
+      <ul>
+        <li><a href="https://reccloud.com/pt/u/ec8d1ae">Teste automatizado - Cypress</a></li>
+        <li><a href="https://github.com/sarahdfweb/Testeperformance/assets/87348787/caefa8b6-2bbd-4e5d-80ac-2c025ec5dc30">Teste de Performance (Carga) - Jmeter</a></li>
+      </ul>
+    </summary>
+  </details>
 </div>
+
 
 
 
