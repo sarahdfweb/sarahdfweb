@@ -39,7 +39,6 @@ Analista de Teste de Software! <br>
       <li><a href="https://reccloud.com/pt/u/ec8d1ae" target="_blank">Teste Automatizado - Cypress</a></li>
       <li><a href="https://github.com/sarahdfweb/Testeperformance/assets/87348787/caefa8b6-2bbd-4e5d-80ac-2c025ec5dc30" title="Em construção" target="_blank">Teste de API - Cypress </a></li>
       <li><a href=""title="Em construção">Teste Unitário - Jest</a></li>
-      <li><a href=""title="Em construção">Teste Unitário - Jest</a></li>
     </ul>
 </div>
 
