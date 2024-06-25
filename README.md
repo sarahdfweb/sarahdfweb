@@ -38,7 +38,7 @@ Analista de Teste de Software! <br>
     <ul>
       <li><a href="https://github.com/sarahdfweb/Testeperformance/assets/87348787/caefa8b6-2bbd-4e5d-80ac-2c025ec5dc30"  target="_blank">Teste de Performance (Carga) - Jmeter</a></li>
       <li><a href="https://reccloud.com/pt/u/ec8d1ae" target="_blank">Teste Automatizado - Cypress</a></li>
-      <li><a href="https://reccloud.com/pt/u/ec8d1ae" title="Em construção" target="_blank">Teste de API - Cypress </a></li>
+      <li><a href="https://reccloud.com/pt/u/ec8d1ae" title="Teste API" target="_blank">Teste de API - Cypress </a></li>
        <li><a href="" title="Em construção" target="_blank">Teste Selenium webdriveIO </a></li>
      <!-- <li><a href=""title="Em construção">Teste Unitário - Jest</a></li> -->
     </ul>
