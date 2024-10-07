@@ -1,7 +1,9 @@
 # Olá, sou Sarah 👋
 Analista de Teste de Software! <br> 
 
-  ![ezgif com-resize (1)](https://github.com/sarahdfweb/sarahdfweb/assets/87348787/eaa8cc99-4e2a-413a-8885-a7cba1b39857)
+![ezgif com-resize (1)](https://github.com/sarahdfweb/sarahdfweb/assets/87348787/eaa8cc99-4e2a-413a-8885-a7cba1b39857)
+
+
 
 -  Focada no aprendizado de testes automatizados
 - 📧 E-mail: sarahdfweb@gmail.com
@@ -15,12 +17,16 @@ Analista de Teste de Software! <br>
 </div>
 <div>
   <a href="https://github.com/sarahdfweb">
-  <img height="150em"src="https://github-readme-stats.vercel.app/api?username=sarahdfweb&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>    
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahdfweb&layout=compact&langs_count=16&theme=radical"/>  
+  <img height="122em"src="https://github-readme-stats.vercel.app/api?username=sarahdfweb&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>    
+  <img height="122em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahdfweb&layout=compact&langs_count=16&theme=radical"/>  
 </div> 
     
 <div>
-  <h2>Clique nas Imagens Abaixo e Confira os Projetos </h2>
+<h2>Clique na Ferramenta e Confira o Projeto Desenvolvido.</h2>
+
+
+
+
   <a href="https://www.figma.com/proto/q3rGN2U7WEVFT5cdE8vD4N/Untitled?page-id=0%3A1&type=design&node-id=1-4&viewport=680%2C485%2C0.25&t=oyOS89Fd8YNWBc79-1&scaling=scale-down&mode=design"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" target="_blank"></a>
   <a href="https://sarahdfweb.github.io/books/"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5"></a>
   <a href="https://sarahdfweb.github.io/cartao-pokemon"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS3"></a>
@@ -33,16 +39,33 @@ Analista de Teste de Software! <br>
 
 </div>
 
-<div>
-  <h2>Alguns Tipos de Testes</h2>
-    <ul>
-      <li><a href="https://github.com/sarahdfweb/Testeperformance/assets/87348787/caefa8b6-2bbd-4e5d-80ac-2c025ec5dc30" title="Teste de Carga"  target="_blank">Teste de Performance (Carga) - Jmeter</a></li>
-      <li><a href="https://reccloud.com/pt/u/ec8d1ae" title="Teste com Cypress" target="_blank">Teste Automatizado - Cypress</a></li>
-      <li><a href="https://reccloud.com/pt/u/ec8d1ae" title="Teste API" target="_blank">Teste de API - Cypress </a></li>
-       <li><a href="" title="Em Construção" target="_blank">Teste Selenium webdriveIO </a></li>
-     <!-- <li><a href=""title="Em construção">Teste Unitário - Jest</a></li> -->
-    </ul>
-</div>
+<table style="width: 100%;">
+  <tr>
+    <td colspan="2" style="text-align: center;">
+    <h2>Alguns Tipos de Testes Desenvolvidos</h2>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 70%;">
+      <ul>
+        <li><a href="https://github.com/sarahdfweb/Testeperformance/assets/87348787/caefa8b6-2bbd-4e5d-80ac-2c025ec5dc30" title="Teste de Carga" target="_blank">Teste de Performance (Carga) - Jmeter</a></li>
+        <li><a href="https://reccloud.com/pt/u/ec8d1ae" title="Teste com Cypress" target="_blank">Teste Automatizado - Cypress</a></li>
+        <li><a href="https://reccloud.com/pt/u/ec8d1ae" title="Teste API" target="_blank">Teste de API - Cypress</a></li>
+     <!-- <li><a href="" title="Em Construção" target="_blank">Teste Selenium WebDriverIO</a></li> --> 
+      </ul>
+    </td>
+    <td style="width: 30%; text-align: right;">
+      <img src="https://github.com/user-attachments/assets/f5d97487-60ad-49d8-a002-a4856f535f4c" width="200" height="150" alt="WhatsApp Image 2024-10-07">
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
 
 
 
