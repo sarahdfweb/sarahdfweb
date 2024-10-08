@@ -1,4 +1,4 @@
-# Olá, sou Sarah 👋
+# Olá, sou Sarah 
 Analista de Teste de Software! <br> 
 
 ![ezgif com-resize (1)](https://github.com/sarahdfweb/sarahdfweb/assets/87348787/eaa8cc99-4e2a-413a-8885-a7cba1b39857)
