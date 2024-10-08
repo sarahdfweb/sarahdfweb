@@ -22,10 +22,7 @@ Analista de Teste de Software! <br>
 </div> 
     
 <div>
-<h2>Clique na Ferramenta e Confira o Projeto Desenvolvido.</h2>
-
-
-
+   <h2>Clique na Ferramenta e Confira o Projeto Desenvolvido.</h2>
 
   <a href="https://www.figma.com/proto/q3rGN2U7WEVFT5cdE8vD4N/Untitled?page-id=0%3A1&type=design&node-id=1-4&viewport=680%2C485%2C0.25&t=oyOS89Fd8YNWBc79-1&scaling=scale-down&mode=design"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" target="_blank"></a>
   <a href="https://sarahdfweb.github.io/books/"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5"></a>
@@ -39,10 +36,10 @@ Analista de Teste de Software! <br>
 
 </div>
 
-<table style="width: 100%;">
-  <tr>
+  <table style="width: 100%;">
+    <tr>
     <td colspan="2" style="text-align: center;">
-    <h2>Alguns Tipos de Testes Desenvolvidos</h2>
+     <h2>  Alguns Tipos de Testes Desenvolvidos</h2>
     </td>
   </tr>
   <tr>
