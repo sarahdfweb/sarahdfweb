@@ -48,7 +48,7 @@ Analista de Teste de Software! <br>
         <li><a href="https://github.com/sarahdfweb/Testeperformance/assets/87348787/caefa8b6-2bbd-4e5d-80ac-2c025ec5dc30" title="Teste de Carga" target="_blank">Teste de Performance (Carga) - Jmeter</a></li>
         <li><a href="https://reccloud.com/pt/u/ec8d1ae" title="Teste com Cypress" target="_blank">Teste Automatizado - Cypress</a></li>
         <li><a href="https://reccloud.com/pt/u/ec8d1ae" title="Teste API" target="_blank">Teste de API - Cypress</a></li>
-    <li><a href="controller.test.js.-.tdd_jest.-.Visual.Studio.Code.2024-11-18.00-55-46.mp4" title="Em Construção" target="_blank">Teste Unitário</a></li> 
+    <li><a href="https://github.com/sarahdfweb/logicajavascript" title="Readme" target="_blank">Teste Unitário</a></li> 
       </ul>
     </td>
     <td style="width: 30%; text-align: right;">
