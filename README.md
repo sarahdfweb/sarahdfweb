@@ -52,8 +52,8 @@ Analista de Teste de Software QA! <br>
     <td style="width: 70%;">
       <ul>
         <li><a href="https://github.com/sarahdfweb/Testeperformance/assets/87348787/caefa8b6-2bbd-4e5d-80ac-2c025ec5dc30" title="Teste de Carga" target="_blank">Teste de Performance (Carga) - Jmeter</a></li>
-        <li><a href="https://reccloud.com/pt/u/ec8d1ae" title="Teste com Cypress" target="_blank">Teste Automatizado - Cypress</a></li>
-        <li><a href="https://github.com/user-attachments/assets/b6127e48-0b9e-4676-bbec-e7dd382d8537" title="Teste API" target="_blank">Teste de API - Cypress</a></li>
+        <li><a href="https://github.com/user-attachments/assets/b6127e48-0b9e-4676-bbec-e7dd382d8537" title="Teste com Cypress" target="_blank">Teste Automatizado - Cypress</a></li>
+        <li><a href="" title="Teste API" target="_blank">Teste de API - Cypress</a></li>
     <li><a href="https://github.com/sarahdfweb/logicajavascript" title="Readme" target="_blank">Teste Unitário</a></li> 
       </ul>
     </td>
