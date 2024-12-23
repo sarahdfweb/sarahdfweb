@@ -10,8 +10,9 @@ Analista de Teste de Software QA! <br>
 - 📞 <a href="https://wa.me/5561998306676">Contato via WhatsApp</a>: 61 99830-6676
 - 🔗 <a href="https://www.linkedin.com/in/sarahdfweb/">LinkedIn</a>: Meu perfil do LinkedIn
  <div align="right">
-  <img src="https://projectpokemon.org/images/normal-sprite/vivillon-meadow.gif" width="30" height="30">
-   
+
+   <!-- <img src="https://projectpokemon.org/images/normal-sprite/vivillon-meadow.gif" width="30" height="30"> -->
+
 
 
 </div>
