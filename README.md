@@ -39,7 +39,6 @@
   <a href=""><img width="30px" src="https://jmeter.apache.org/images/jmeter_square.png" title="Em construção"></a>
   <a href="https://github.com/sarahdfweb/SQLSERVER/tree/main"><img width="30px" src="https://github.com/sarahdfweb/sarahdfweb/assets/87348787/f94a8dea-654a-4393-8ce6-ebeb8cf01464" title="SQL/NOSQL"></a>
   <a href="https://github.com/sarahdfweb/postgreSQL"><img width="35px" src="https://github.com/user-attachments/assets/5d92ba96-bafa-4cee-9723-eb02ef88fd87" title="PostgreSQL" /></a>
-  
 
 </div>
 
