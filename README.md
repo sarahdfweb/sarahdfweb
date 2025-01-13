@@ -10,8 +10,6 @@
 
 <h1 align="center">Analista de Teste de Software QA!</h1>
 
-
-
 -  Focada no aprendizado de testes automatizados
 - 📧 E-mail: sarahdfweb@gmail.com
 - 📞 <a href="https://wa.me/5561998306676">Contato via WhatsApp</a>: 61 99830-6676
