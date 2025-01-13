@@ -1,8 +1,13 @@
-# Olá, sou Sarah 
-Analista de Teste de Software QA! <br> 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7c358682-3f6b-4e34-8ca9-270cbf07a369" alt="Capa do GitHub" width="100%" height="03px">
+</p>
 
-![ezgif com-resize (1)](https://github.com/sarahdfweb/sarahdfweb/assets/87348787/eaa8cc99-4e2a-413a-8885-a7cba1b39857)
+<h1>Olá, sou Sarah</h1>
+  <img src="https://github.com/user-attachments/assets/7c358682-3f6b-4e34-8ca9-270cbf07a369" alt="Capa do GitHub" width="100%" height="03px"> 
+</p>
+<h1> Analista de Teste de Software QA!</h1>
 
+<img src="https://github.com/sarahdfweb/sarahdfweb/assets/87348787/eaa8cc99-4e2a-413a-8885-a7cba1b39857" alt="GIF">
 
 
 -  Focada no aprendizado de testes automatizados
@@ -13,8 +18,6 @@ Analista de Teste de Software QA! <br>
 
    <!-- <img src="https://projectpokemon.org/images/normal-sprite/vivillon-meadow.gif" width="30" height="30"> -->
 
-
-
 </div>
 <div>
   <a href="https://github.com/sarahdfweb">
@@ -23,7 +26,8 @@ Analista de Teste de Software QA! <br>
 </div> 
     
 <div>
-   <h2>Clique na Ferramenta e Confira o Projeto Desenvolvido.</h2>
+   <h1>Clique na Ferramenta e Confira o Projeto Desenvolvido.</h1>
+     <img src="https://github.com/user-attachments/assets/7c358682-3f6b-4e34-8ca9-270cbf07a369" alt="Capa do GitHub" width="100%" height="03px"> 
 
   <a href="https://www.figma.com/proto/q3rGN2U7WEVFT5cdE8vD4N/Untitled?page-id=0%3A1&type=design&node-id=1-4&viewport=680%2C485%2C0.25&t=oyOS89Fd8YNWBc79-1&scaling=scale-down&mode=design"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" target="_blank"></a>
   <a href="https://sarahdfweb.github.io/books/"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5"></a>
@@ -36,10 +40,6 @@ Analista de Teste de Software QA! <br>
   <a href="https://github.com/sarahdfweb/SQLSERVER/tree/main"><img width="30px" src="https://github.com/sarahdfweb/sarahdfweb/assets/87348787/f94a8dea-654a-4393-8ce6-ebeb8cf01464" title="SQL/NOSQL"></a>
   <a href="https://github.com/sarahdfweb/postgreSQL"><img width="35px" src="https://github.com/user-attachments/assets/5d92ba96-bafa-4cee-9723-eb02ef88fd87" title="PostgreSQL" /></a>
   
-
-  
-  
-
 
 </div>
 
@@ -64,7 +64,7 @@ Analista de Teste de Software QA! <br>
   </tr>
 </table>
 
-
+  <img src="https://github.com/user-attachments/assets/7c358682-3f6b-4e34-8ca9-270cbf07a369" alt="Capa do GitHub" width="100%" height="03px"> 
 
 
 
