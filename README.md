@@ -2,12 +2,14 @@
   <img src="https://github.com/user-attachments/assets/7c358682-3f6b-4e34-8ca9-270cbf07a369" alt="Capa do GitHub" width="100%" height="03px">
 </p>
 
-<h1>Olá, sou Sarah</h1>
-  <img src="https://github.com/user-attachments/assets/7c358682-3f6b-4e34-8ca9-270cbf07a369" alt="Capa do GitHub" width="100%" height="03px"> 
-</p>
-<h1> Analista de Teste de Software QA!</h1>
+<h1 align="center">Olá, sou Sarah</h1>
 
-<img src="https://github.com/sarahdfweb/sarahdfweb/assets/87348787/eaa8cc99-4e2a-413a-8885-a7cba1b39857" alt="GIF">
+<p align="center">
+  <img src="https://github.com/sarahdfweb/sarahdfweb/assets/87348787/eaa8cc99-4e2a-413a-8885-a7cba1b39857" alt="GIF">
+</p>
+
+<h1 align="center">Analista de Teste de Software QA!</h1>
+
 
 
 -  Focada no aprendizado de testes automatizados
