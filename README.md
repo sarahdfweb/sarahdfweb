@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7c358682-3f6b-4e34-8ca9-270cbf07a369" alt="Capa do GitHub" width="100%" height="03px">
 </p>
-
+ 
 <h1 align="center">Olá, sou Sarah</h1> 
 
 <p align="center">
