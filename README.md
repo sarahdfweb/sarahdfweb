@@ -33,12 +33,12 @@
   <a href="https://sarahdfweb.github.io/books/"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5"></a>
   <a href="https://sarahdfweb.github.io/cartao-pokemon"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS3"></a>
   <a href="https://sarahdfweb.github.io/xmen/"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"></a>
-  <a href="https://github.com/sarahdfweb/especializacao_testes_software/tree/main/Gherkin"><img width="30px" src="https://cucumber.io/cucumber/media/images/logos/icons/cucumber-open-icon.svg" title="Cucumber"></a>
+  <a href="https://github.com/sarahdfweb/especializacao_testes_software/tree/main/Gherkin"><img width="30px" src="https://github.com/user-attachments/assets/bbd3f90d-b0a3-4c92-bbb9-3c18665079fe" title="Cucumber"></a>
   <a href=""><img width="30px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Em construção"></a>
   <a href="https://github.com/sarahdfweb/Teste-Api-Cypress"><img width="30px" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" title="Cypress"></a>
   <a href=""><img width="30px" src="https://jmeter.apache.org/images/jmeter_square.png" title="Em construção"></a>
   <a href="https://github.com/sarahdfweb/SQLSERVER/tree/main"><img width="30px" src="https://github.com/sarahdfweb/sarahdfweb/assets/87348787/f94a8dea-654a-4393-8ce6-ebeb8cf01464" title="SQL/NOSQL"></a>
-  <a href="https://github.com/sarahdfweb/postgreSQL"><img width="35px" src="https://github.com/user-attachments/assets/5d92ba96-bafa-4cee-9723-eb02ef88fd87" title="PostgreSQL" /></a>
+  <a href="https://github.com/sarahdfweb/postgreSQL"><img width="35px" src="https://github.com/user-attachments/assets/5d92ba96-bafa-4cee-9723-eb02ef88fd87" title="PostgreSQL"></a>
 
 </div>
 
